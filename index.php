@@ -1,4 +1,5 @@
 <?php
+header("Location: https://www.henrykashi.com/");
 require_once('./assets/init.php');
 
 if (!empty($auto_redirect)) {
